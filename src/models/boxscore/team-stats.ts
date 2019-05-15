@@ -1,0 +1,27 @@
+export type TeamStats = {
+  GAME_ID: string;
+  TEAM_ID: number;
+  TEAM_NAME: string;
+  TEAM_ABBREVIATION: string;
+  TEAM_CITY: string;
+  MIN: string;
+  FGM: number;
+  FGA: number;
+  FG_PCT: number;
+  FG3M: number;
+  FG3A: number;
+  FG3_PCT: number;
+  FTM: number;
+  FTA: number;
+  FT_PCT: number;
+  OREB: number;
+  DREB: number;
+  REB: number;
+  AST: number;
+  STL: number;
+  BLK: number;
+  TO: number;
+  PF: number;
+  PTS: number;
+  PLUS_MINUS: number;
+};

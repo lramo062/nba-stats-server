@@ -1,0 +1,5 @@
+# all compiled files
+dist
+
+# node modules
+node_modules

@@ -1,0 +1,5 @@
+export const GAME = [{
+    GAME_DATE_EST: '2019-05-02T00:00:00',
+    GAME_ID: '0041800213',
+    GAMECODE: '20190502/TORPHI'
+}]
